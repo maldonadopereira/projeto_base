@@ -1,6 +1,6 @@
 import pytest
 from django.urls import reverse
-from django.test import TestCase
+
 
 @pytest.fixture
 def resp(client, db):
