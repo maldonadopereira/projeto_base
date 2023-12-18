@@ -7,6 +7,10 @@ name = "pypi"
 django = "*"
 python-decouple = "*"
 psycopg2-binary = "*"
+dj-database-url = "2.1.0"
+django-crispy-forms = "2.1"
+crispy-bootstrap4 = "2023.1"
+gunicorn = "*"
 
 [dev-packages]
 pytest = "*"
